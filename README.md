@@ -1,1 +1,1 @@
-###Esercizi di programmazione C del corso di Sistemi Operativi
+# Esercizi di programmazione C del corso di Sistemi Operativi
